@@ -7,3 +7,4 @@ adding from local computer
 from desktop
 final test today thing
 try again
+try again, fixes #10
